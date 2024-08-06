@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-family: "Cedarville Cursive", cursive;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+h1{
+    text-align: center;
+    margin-top: 1rem;
+    font-style: italic;
+    font-size: 7rem;
+    font-weight: 900;
+    color:rgb(58, 235, 58)
+}
+
+p{
+    font-family: "Cedarville Cursive", cursive;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 2rem;
+}
+
+.outer-div{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 4rem;
+    margin-left: 1rem;
+}
+
+.imgi{
+        height: 20rem;
+        width: 20rem;
+        margin-top: 2rem;
+}
+
+
+body{
+    background-color: rgb(99, 95, 95);
+}
+
+.img{
+    border-radius: 2rem;
+}
+
+p{
+    color: rgb(38, 235, 235);
+    font-weight: 900;
+}
